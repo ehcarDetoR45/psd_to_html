@@ -1,0 +1,35 @@
+* {
+margin: 0;
+}
+
+nav {
+ color: pink;
+}
+
+#hero-section {
+ color:blueviolet;
+}
+
+#our_story-section {
+ color:darkmagenta;
+}
+
+#watch-section {
+ color:crimson;
+}
+
+#expertise-section {
+ color: darkorange;
+}
+
+#team-section {
+ color: darkorchid;
+}
+
+#contact_client-section {
+ color: darkred;
+}
+
+footer {
+ color: deeppink;
+}
