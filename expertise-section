@@ -1,0 +1,42 @@
+<section id="services">
+        <h3>Expertise</h3>
+        <p>
+          At WBS CODING SCHOOL you are always connected to your classmates and
+          instructors. Learn to code together. Interactive remote learning is
+          now.
+        </p>
+        <section id="cards">
+          <div class="card">
+            <h5>Header</h5>
+            <p>
+              Interactive online bootcamps with instructor-led lectures,
+              workshops, team coding challenges and much more.
+            </p>
+          </div>
+          <div class="card">
+            <h5>Header</h5>
+            <p>
+              Interactive online bootcamps with instructor-led lectures,
+              workshops, team coding challenges and much more.
+            </p>
+          </div>
+          <div class="card">
+            <h5>Header</h5>
+            <p>
+              Interactive online bootcamps with instructor-led lectures,
+              workshops, team coding challenges and much more.
+            </p>
+          </div>
+          <div class="card">
+            <h5>Header</h5>
+            <p>
+              Interactive online bootcamps with instructor-led lectures,
+              workshops, team coding challenges and much more.
+            </p>
+          </div>
+        </section>
+      </section>
+    </main>
+    <footer></footer>
+  </body>
+</html>
