@@ -19,18 +19,4 @@ nav {
  color:crimson;
 }
 
-#expertise-section {
- color: darkorange;
-}
-
-#team-section {
- color: darkorchid;
-}
-
-#contact_client-section {
- color: darkred;
-}
-
-footer {
- color: deeppink;
-}
+<!-- Lukasz is doing the end sections thats why the rest of the basic css structure is deleted from here. -->
