@@ -1,1 +1,124 @@
- 
+ html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family:Poppins;
+}
+
+h1 {
+    font-family: Audiowide;
+}
+
+h2 {
+ font-family: Audiowide;
+}
+
+p {
+    line-height: 20px;
+}
+
+hr {
+ border-style:none;
+ border-top: solid;
+ border-color: rgb(11, 144, 164);
+ border-width: 2.5px;
+ width: 6%;
+}
+
+.navbar {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #D4D7DE;
+    width: 100%;
+    height: 70px;
+    z-index: 1;
+}
+
+.nav {
+    display: flex;
+    justify-content: right;
+    list-style: none;
+    margin-right: 15%;
+}
+
+.logo {
+    flex: 1 1 auto;
+    margin-left: 10%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+img {
+    width: 20%;
+}
+
+a {
+    margin: 15px;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover{
+    color: #000;
+}
+
+.banner-area{
+    position: relative;
+    background-image: url(/Users/blackwolvespurpleclothes/Desktop/psd_to_html_local/images/photoshop/design-assets/bgk-header.png);
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-area, .expertise-area, .works-area, .peoplesay, .contact-area, {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    height: 700px;
+}
+
+.text-part{
+    width: 65%;
+    height: 80%;
+}
+
+.about-area {
+    background-color: #fefefe;
+}
+
+.watch-area {
+    background-color: #262626;
+    color: #fff;
+}
+
+.expertise-area {
+    background-color: #fefefe;
+}
+
+.works-area {
+    background-color: #262626;
+    color: #fff;
+}
+
+.peoplesay-area {
+     background-color: #fefefe;
+}
+
+.contact-area {
+ background-color: #262626;
+ color: #fff;
+}
