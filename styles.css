@@ -1,0 +1,22 @@
+* {
+margin: 0;
+}
+
+nav {
+ color: pink;
+ 
+}
+
+#hero-section {
+ color:blueviolet;
+}
+
+#our_story-section {
+ color:darkmagenta;
+}
+
+#watch-section {
+ color:crimson;
+}
+
+<!-- Lukasz is doing the end sections thats why the rest of the basic css structure is deleted from here. -->
